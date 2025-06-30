@@ -37,7 +37,7 @@ Here's a breakdown of the workflow:
 
 **- PDF Conversion:** Finally, the Markdown content is converted into a styled PDF document for easy sharing and archiving.
 
-# **Step-by-step Agent Execution**
+# **Step-by-step Agents Execution**
 
 **1.** User topic will be passed to web_agent. Web_agent will do the internet search and collect the most recent information related to topic.
 
