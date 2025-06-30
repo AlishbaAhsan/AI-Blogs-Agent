@@ -1,0 +1,8 @@
+agno
+openai
+duckduckgo-search
+pycountry
+googlesearch-python
+python-dotenv
+markdown
+weasyprint
