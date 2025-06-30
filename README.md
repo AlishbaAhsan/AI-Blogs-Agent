@@ -53,7 +53,9 @@ Here's a breakdown of the workflow:
 
 **5.** The final Blog will be saved as PDF in the root directory of the project.
 
-You can see step-by-step execution of workflow on your terminal upon execution of the code.
+![Screenshot from 2025-06-30 16-58-35](https://github.com/user-attachments/assets/f8b49467-4bd8-46b7-9f6e-154a7d4e60de)
+
+You can see step-by-step execution of agents workflow on your terminal upon successful execution of the code.
 
 
 # **⚙️ Setup and Installation**
