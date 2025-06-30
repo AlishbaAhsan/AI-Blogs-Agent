@@ -67,7 +67,7 @@ Follow these steps to get your AI Blog Agents project up and running:
 **Installation**
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Blog-Agents.git
+git clone https://github.com/AlishbaAhsan/AI-Blogs-Agent.git
 cd AI-Blog-Agents
 ```
 
